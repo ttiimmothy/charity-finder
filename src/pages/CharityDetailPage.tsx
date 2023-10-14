@@ -41,29 +41,22 @@ export function CharityDetailPage(): JSX.Element {
     return JSON.parse(saved) || [];
   });
 
-  useEffect(
-    () => {
-      console.log(charityState);
-      console.log(tagList);
-      if (!charityState) {
-        getCharityDetail(id ?? "");
-        console.log("fetch");
-      }
+  useEffect(() => {
+    if (!charityState) {
+      getCharityDetail(id ?? "");
+    }
 
-      if (
-        charityState &&
-        favoriteList
-          .map((charity) => charity.profileUrl)
-          .indexOf(charityState.profileUrl) > -1
-      ) {
-        setInFavorite(true);
-      } else {
-        setInFavorite(false);
-      }
-    },
-    [id, tagList, favoriteList, state, charityState]
-    // [id, favoriteList, state, charityState]
-  );
+    if (
+      charityState &&
+      favoriteList
+        .map((charity) => charity.profileUrl)
+        .indexOf(charityState.profileUrl) > -1
+    ) {
+      setInFavorite(true);
+    } else {
+      setInFavorite(false);
+    }
+  }, [id, favoriteList, charityState]);
 
   const addToFavorite = () => {
     if (
