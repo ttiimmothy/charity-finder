@@ -1,0 +1,26 @@
+.bold {
+  font-size: 144px;
+}
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.card {
+  background-color: var(--surface-card);
+  border-radius: 10px;
+  margin-bottom: 1rem;
+  padding: 2rem;
+}
+.layout-content-inner {
+  padding: 2rem 4rem;
+}
+.surface-border {
+  border-color: #dfe7ef;
+}
+.limit-two-lines {
+  height: 3rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
