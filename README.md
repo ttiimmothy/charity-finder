@@ -19,3 +19,7 @@ A charity finder using `Typescript`, `React.js` amd `Vite`. It uses `TailwindCSS
 npm i
 npm run dev
 ```
+
+## Environment Variables (see the `.env.example` file)
+
+- every.org public api key
