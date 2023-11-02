@@ -1,0 +1,14 @@
+{
+  "cSpell.words": [
+    "CICD",
+    "Cloudinary",
+    "Favourite",
+    "njsproj",
+    "ntvs",
+    "primevue",
+    "tailwindcss"
+  ],
+  "files.associations": {
+    "*.css": "tailwindcss"
+  }
+}
