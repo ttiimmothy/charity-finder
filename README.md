@@ -20,7 +20,7 @@ A charity finder using **`Typescript`**, **`React`** amd **`Vite`**. It uses **`
 ### Build and Run
 
 ```TypeScript
-npm i
+npm install
 npm run dev
 ```
 
