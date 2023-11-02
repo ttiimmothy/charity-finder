@@ -1,5 +1,9 @@
 # Charity Finder
-A charity finder using `Typescript`, `React.js` amd `Vite`. It uses `TailwindCSS` for simplifying CSS usage.
+[![CI](https://github.com/ttiimmothy/charity_finder/actions/workflows/ci.yaml/badge.svg)](https://github.com/ttiimmothy/charity_finder/actions/workflows/ci.yaml)
+<!-- [![CICD](https://github.com/ttiimmothy/charity_finder/actions/workflows/cicd.yaml/badge.svg)](https://github.com/ttiimmothy/charity_finder/actions/workflows/cicd.yaml)
+[![pages-build-deployment](https://github.com/ttiimmothy/charity_finder/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/ttiimmothy/charity_finder/actions/workflows/pages/pages-build-deployment) -->
+
+A charity finder using **`Typescript`**, **`React`** amd **`Vite`**. It uses **`Tailwind CSS`** for simplifying CSS usage. It uses **`react-router-dom`** to do the routing and redirecting.
 
 ## 🎯 Features
 
@@ -20,6 +24,6 @@ npm i
 npm run dev
 ```
 
-## Environment Variables (see the `.env.example` file)
+## Environment Variables
 
-- every.org public api key
+- every.org public api key (see the `.env.example` file)
