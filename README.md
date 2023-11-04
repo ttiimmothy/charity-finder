@@ -1,7 +1,7 @@
 # Charity Finder
-[![CI](https://github.com/ttiimmothy/charity_finder/actions/workflows/ci.yaml/badge.svg)](https://github.com/ttiimmothy/charity_finder/actions/workflows/ci.yaml)
-<!-- [![CICD](https://github.com/ttiimmothy/charity_finder/actions/workflows/cicd.yaml/badge.svg)](https://github.com/ttiimmothy/charity_finder/actions/workflows/cicd.yaml)
-[![pages-build-deployment](https://github.com/ttiimmothy/charity_finder/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/ttiimmothy/charity_finder/actions/workflows/pages/pages-build-deployment) -->
+[![CI](https://github.com/ttiimmothy/charity-finder/actions/workflows/ci.yaml/badge.svg)](https://github.com/ttiimmothy/charity-finder/actions/workflows/ci.yaml)
+<!-- [![CICD](https://github.com/ttiimmothy/charity-finder/actions/workflows/cicd.yaml/badge.svg)](https://github.com/ttiimmothy/charity-finder/actions/workflows/cicd.yaml)
+[![pages-build-deployment](https://github.com/ttiimmothy/charity-finder/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/ttiimmothy/charity-finder/actions/workflows/pages/pages-build-deployment) -->
 
 A charity finder using **`Typescript`**, **`React`** amd **`Vite`**. It uses **`Tailwind CSS`** for simplifying CSS usage. It uses **`react-router-dom`** to do the routing and redirecting.
 
