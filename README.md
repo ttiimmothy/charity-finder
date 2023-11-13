@@ -27,3 +27,7 @@ npm run dev
 ## Environment Variables
 
 - every.org public api key (see the `.env.example` file)
+
+## License
+
+Charity Finder is licensed under GNU General Public License v3.0.
