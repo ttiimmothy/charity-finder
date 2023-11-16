@@ -1,9 +1,7 @@
-# Charity Finder
-[![CI](https://github.com/ttiimmothy/charity-finder/actions/workflows/ci.yaml/badge.svg)](https://github.com/ttiimmothy/charity-finder/actions/workflows/ci.yaml)
-<!-- [![CICD](https://github.com/ttiimmothy/charity-finder/actions/workflows/cicd.yaml/badge.svg)](https://github.com/ttiimmothy/charity-finder/actions/workflows/cicd.yaml)
-[![pages-build-deployment](https://github.com/ttiimmothy/charity-finder/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/ttiimmothy/charity-finder/actions/workflows/pages/pages-build-deployment) -->
+# Charity Finder Application
+[![ci](https://github.com/ttiimmothy/charity-finder-application/actions/workflows/ci.yml/badge.svg)](https://github.com/ttiimmothy/charity-finder-application/actions/workflows/ci.yml)
 
-A charity finder using **`Typescript`**, **`React`** amd **`Vite`**. It uses **`Tailwind CSS`** for simplifying CSS usage. It uses **`react-router-dom`** to do the routing and redirecting.
+A charity finder application uses **`Typescript`**, **`React`** amd **`Vite`**. It uses **`Tailwind CSS`** for simplifying CSS usage. It uses **`react-router-dom`** to do the routing and redirecting.
 
 ## 🎯 Features
 
@@ -30,4 +28,4 @@ npm run dev
 
 ## License
 
-Charity Finder is licensed under GNU General Public License v3.0.
+Charity Finder Application is licensed under [GNU General Public License v3.0](LICENSE).

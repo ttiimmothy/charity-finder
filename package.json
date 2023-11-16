@@ -1,9 +1,9 @@
 {
-  "homepage": "https://charityfinder.vercel.app/",
-  "name": "charity_finder",
+  "name": "charity_finder_application",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://charityfinderapplication.vercel.app/",
   "scripts": {
     "dev": "vite --port 5174",
     "build": "tsc && vite build",
